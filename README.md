@@ -1,4 +1,16 @@
 # DM
+
+[Notes: Week 1-10](https://github.com/waystolearn/DM/tree/main/Week%201-10)
+
+[Notes: Week 11-20](https://github.com/waystolearn/DM/tree/main/Week%2011-20)
+
+[Reading List](https://github.com/waystolearn/DM/tree/main/Reading%20List)
+
+[Midterm](https://github.com/waystolearn/DM/tree/main/Midterm)
+
+[Final](https://github.com/waystolearn/DM/tree/main/Final)
+
+
 ## Textbook
 [Discrete Mathematics and Its Applications by Kenneth Rosen (7th Edition).pdf](https://github.com/waystolearn/DM/files/6028983/Discrete_Mathematics_and_Its_Applications_.7th_Edition.pdf)
 
