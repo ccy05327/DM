@@ -1,24 +1,24 @@
 # DM
 
-[Notes: Week 1-10](https://github.com/waystolearn/DM/tree/main/Week%201-10)
+[Notes: Week 1-10](https://github.com/ccy05327/DM/tree/main/Week%201-10)
 
-[Notes: Week 11-20](https://github.com/waystolearn/DM/tree/main/Week%2011-20)
+[Notes: Week 11-20](https://github.com/ccy05327/DM/tree/main/Week%2011-20)
 
-[Reading List](https://github.com/waystolearn/DM/tree/main/Reading%20List)
+[Reading List](https://github.com/ccy05327/DM/tree/main/Reading%20List)
 
-[Midterm](https://github.com/waystolearn/DM/tree/main/Midterm)
+[Midterm](https://github.com/ccy05327/DM/tree/main/Midterm)
 
-[Final](https://github.com/waystolearn/DM/tree/main/Final)
+[Final](https://github.com/ccy05327/DM/tree/main/Final)
 
 
 ## Textbook
-[Discrete Mathematics and Its Applications by Kenneth Rosen (7th Edition).pdf](https://github.com/waystolearn/DM/files/6028983/Discrete_Mathematics_and_Its_Applications_.7th_Edition.pdf)
+[Discrete Mathematics and Its Applications by Kenneth Rosen (7th Edition).pdf](https://github.com/ccy05327/DM/files/6028983/Discrete_Mathematics_and_Its_Applications_.7th_Edition.pdf)
 
-[Discrete Mathematics and its Applications by Kenneth Rosen (7th global).pdf](https://github.com/waystolearn/DM/files/6029047/Discrete.Mathematics.and.its.Applications.7th.global.pdf)
+[Discrete Mathematics and its Applications by Kenneth Rosen (7th global).pdf](https://github.com/ccy05327/DM/files/6029047/Discrete.Mathematics.and.its.Applications.7th.global.pdf)
 
-[Discrete Mathematics and Its Applications by Kenneth Rosen (8th Edition).zip](https://github.com/waystolearn/DM/files/6029055/Discrete.Mathematics.and.Its.Applications.by.Kenneth.Rosen.z-lib.org.zip)
+[Discrete Mathematics and Its Applications by Kenneth Rosen (8th Edition).zip](https://github.com/ccy05327/DM/files/6029055/Discrete.Mathematics.and.Its.Applications.by.Kenneth.Rosen.z-lib.org.zip)
 
-[Discrete Mathematics An Open Introduction by Oscar, Levin (3rd Edition).pdf](https://github.com/waystolearn/DM/files/6029058/Oscar.Levin.Discrete.Mathematics.An.Open.Introduction.Greeley.2019.3rd.Edition.pdf)
+[Discrete Mathematics An Open Introduction by Oscar, Levin (3rd Edition).pdf](https://github.com/ccy05327/DM/files/6029058/Oscar.Levin.Discrete.Mathematics.An.Open.Introduction.Greeley.2019.3rd.Edition.pdf)
 
 Discrete Mathematics with Applications by Koshy, Thomas (too big to upload)
 
